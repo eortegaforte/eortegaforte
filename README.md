@@ -1,16 +1,22 @@
-## Hi there 👋
+# Enrique Ortega-Forte, Ph.D. 
 
-<!--
-**eortegaforte/eortegaforte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Chemical biologist 
+@ Technical University of Denmark (DTU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About
+
+I am a chemical biologist interested in using chemical tools to interrogate human biology and disease. I have a robust skill set that includes assay development, flow cytometry, cell and molecular biology, synthetic chemistry, as well as scientific communication and writing.
+
+---
+
+## Research Interests
+
+- Cancer research
+- Small-molecule probes
+- Photoactive drugs
+- Chemical genetics
+---
+
